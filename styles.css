@@ -1,0 +1,22 @@
+h1 {
+    font: 24px;
+    color: #38B2AC;
+    width: 150px;
+}
+
+h2 {
+    font: 21px;
+    color: #5A67D8;
+    width: 150px;
+}
+
+p {
+    font-size: #5A67D8;
+}
+
+img {
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    padding: 5px;
+    width: 150px;
+}
